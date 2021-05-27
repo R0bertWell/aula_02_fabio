@@ -1,3 +1,7 @@
 .idea
 
 me_ignore.txt
+
+*.py
+
+!nao_ignora.py
